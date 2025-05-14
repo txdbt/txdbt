@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @txdbt， It's actually means potato in chinese
-- 👀 I’m interested in richhi mahjong 
+- 👀 I’m interested in richhi mahjong and DBD
 - 🌱 I’m currently learning python and .html
 - 📫 :2518587521@qq.com
 
